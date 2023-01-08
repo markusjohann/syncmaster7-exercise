@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="585cba02-8e4c-40f0-8723-25b49c74e4a6" name="Changes" comment="An update of the exercise">
-      <change afterPath="$PROJECT_DIR$/src/VowelMain.java" afterDir="false" />
+    <list default="true" id="585cba02-8e4c-40f0-8723-25b49c74e4a6" name="Changes" comment="Latest update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VowelCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VowelCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +77,18 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1673080674085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Latest update">
+      <created>1673081720593</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1673081720593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="An update of the exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="An update of the exercise" />
+    <MESSAGE value="Latest update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest update" />
   </component>
 </project>
