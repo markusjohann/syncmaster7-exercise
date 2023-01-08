@@ -18,6 +18,6 @@ public class VowelCount {
              vowelCount++;
             }
         }
-        System.out.println(vowelCount);
+        System.out.println("There are " + vowelCount + " vowels in the given word/sentence.");
     }
 }
